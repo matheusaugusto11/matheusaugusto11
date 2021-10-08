@@ -1,6 +1,6 @@
 ### Olá aqui quem fala é Matheus Augusto 👋
 
-- 🌱 Estou finalizando um curso de Programação de Jogos(aprendendo C# com Unity)
+- 🌱 Gamer Programmer - Unity(C#)
 - 😄 Pronouns: ele/dele
 - 💬 Email: contatomatheusaugusto11@gmail.com
 
